@@ -9,3 +9,6 @@ Data is plentiful. Machine algorithms are plentiful. Is it possible to exploit t
 
 ## How?
 
+By estimating a statistic of ground truth, not ground truth itself. You can set-up what is a multi-variable polynomial set of equations on the statistic that you want to estimate. When you have enough algorithmic outputs to compare, on enough data, you can deduce the error rates of the algorithms and even a little something about the data you are using to carry out your measurement.
+
+&copy; Andres Corrada-Emmanuel, 2014
